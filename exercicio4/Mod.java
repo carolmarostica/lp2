@@ -3,7 +3,7 @@ public class Mod {
   public Mod(int valor){
     this.valor = valor;
   }
-  public int setValor(int valor){
+  public void setValor(int valor){
     this.valor = valor;
   }
   
