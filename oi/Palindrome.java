@@ -19,7 +19,3 @@ public class Palindrome {
     System.out.println("Conforme o parâmetro passado o palíndrome encontrado foi: " + w);
   }
 }
-public static void main(String args[]) {
-  int[] idades = new int[10];
-  for (int i = 0; i < 10; i++) {
-    idades[i] = i * 10;
