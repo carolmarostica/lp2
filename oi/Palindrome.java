@@ -17,7 +17,7 @@ public class Palindrome {
         }
       }
     }
-    w=args[0].substring(p,q);
+    //w=args[0].substring(p,q);
     System.out.println("Conforme o parâmetro passado o palíndrome encontrado foi: " + w);
   }
 }
