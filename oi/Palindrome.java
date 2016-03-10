@@ -5,7 +5,9 @@ public class Palindrome {
     p=0;
     q=p+4;
     String[] w = new String[q+1];
-    w[0]=args[0].substring(p,q);
+    for(s=0; s<=q; s++){
+      w[s]=args[0].length(s);
+    }
     for (int i=p; i<5; i++){
       for (int j=q; j>=0; j--){
         if((w[i]).equals(w[j])){
@@ -15,7 +17,7 @@ public class Palindrome {
         }
       }
     }
-    
+    w=args[0].substring(p,q);
     System.out.println("Conforme o parâmetro passado o palíndrome encontrado foi: " + w);
   }
 }
