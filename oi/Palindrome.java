@@ -10,8 +10,7 @@ public class Palindrome {
         if((w[i]).equals(w[j])){
           System.out.println("ok");
         }else{
-          this.p=p++;
-          this.q=q++;
+        
         }
       }
     }
