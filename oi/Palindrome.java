@@ -11,8 +11,8 @@ public class Palindrome {
         if((args[0].length(i)).equals(args[0].length(j))){
           System.out.println("ok");
         }else{
-          this.p++;
-          this.q++;
+          this.p=p++;
+          this.q=q++;
         }
       }
     }
