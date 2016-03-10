@@ -1,8 +1,4 @@
 public class Palindrome {
-  class Search(){
-   
-  }
-  
   public static void main(String[] args){
     int p;
     int q;
