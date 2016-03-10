@@ -5,7 +5,7 @@ public class Palindrome {
     p=0;
     q=p+4;
     String[] w = new String[q+1];
-    for(s=0; s<=q; s++){
+    for(int s=0; s<=q; s++){
       w[s]=args[0].length(s);
     }
     for (int i=p; i<5; i++){
