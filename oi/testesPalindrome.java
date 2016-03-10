@@ -5,5 +5,6 @@ public class testePalindrome {
    String[] retornaArrayString(String w){
      String[] string = new String[w.length];
      return string;
+     System.out.println (string);
     }
 }
