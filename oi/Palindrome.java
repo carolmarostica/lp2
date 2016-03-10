@@ -4,11 +4,11 @@ public class Palindrome {
     int q;
     p=0;
     q=p+4;
-    String w=args[0].substring(p,q);
+    String[] w=args[0].substring(p,q);
     for (int i=p; i<5; i++){
       for (int j=q; j>=0; j--){
         if((w[i]).equals(w[j])){
-          System.out.println("ok");
+          System.out.println(i+"-"+j +"/");
         }else{
         
         }
