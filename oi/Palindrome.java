@@ -1,5 +1,9 @@
 public class Palindrome {
   class Search(){
+   
+  }
+  
+  public static void main(String[] args){
     int p;
     int q;
     q=0;
@@ -15,9 +19,6 @@ public class Palindrome {
         }
       }
     }
-  }
-  
-  public static void main(String[] args){
     
     System.out.println("Conforme o parâmetro passado o palíndrome encontrado foi: " + w);
   }
