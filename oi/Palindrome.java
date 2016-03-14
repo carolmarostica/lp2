@@ -8,6 +8,7 @@ public class Palindrome {
       for (int j=4; j>=0; j--){
         if((w[i]).equals(w[j])){
           System.out.println(i+"-"+j +"/");
+          String.out.println(w[0]);
         }else{
         
         }
