@@ -12,7 +12,7 @@ public class Palindrome {
     for (int i=0; i<5; i++){
       for (int j=4; j>=0; j--){
         if((w[i]).equals(w[j])){
-          System.out.println(i + '=' + j + '->' + w[i]);
+          System.out.println(i + "=" + j + "->" + w[i]);
         }
       }
     }
