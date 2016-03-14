@@ -1,4 +1,4 @@
-public class teste {
+public class Palindrome {
   public static void main(String[] args){
     int fim =0;
     while( fim != 5){
