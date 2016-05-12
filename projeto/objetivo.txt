@@ -1,0 +1,14 @@
+tema: alarme capaz de auxiliar na lembrança de tomar remédio
+nome: MedTime
+
+Introduçao
+Muitas pessoas tem dificuldade em lembrar dos remédios que devem tomar e isso pode se tornar um problema sério. 
+Com isso, o grupo viu a necessidade de desenvolver um aplicativo capaz de auxiliar seus usuários a tomarem seus 
+remédios e a tomarem na hora certa. 
+
+O objetivo do projeto é simples, lembrar o usuário de toma-los utilizando um alarme. Para que o aplicativo possa 
+ajudar o cliente final, um cadastro do remédio deve ser preenchido. A tabela de cadastro terá o nome do remédio,
+uma foto do mesmo, de quantas em quantas horas o usuário deve tomá-lo, por quantos dias e a dose.
+
+
+
