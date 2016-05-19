@@ -8,4 +8,5 @@ remédios, e a tomarem na hora certa.
 
 O objetivo do projeto é simples, lembrar o usuário de toma-los utilizando um alarme. Para que o aplicativo possa 
 ajudar o cliente final, um cadastro do remédio deve ser preenchido. A tabela de cadastro terá o nome do remédio,
-uma foto do mesmo, de quantas em quantas horas o usuário deve tomá-lo, por quantos dias e a dose.
+uma foto do mesmo, de quantas em quantas horas o usuário deve tomá-lo, por quantos dias e a dose. Além disso também terá um botão que o usuário colocará on/off para acionar o lembrete de alguma atividade específica, como comer antes de ingerir o remédio. O aplicativo também terá a opção de soneca, que poderá ser de 5, 10 ou 15 minutos.
+
