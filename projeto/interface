@@ -1,0 +1,48 @@
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script type="text/javascript" src="http://netdna.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://pingendo.github.io/pingendo-bootstrap/themes/default/bootstrap.css" rel="stylesheet" type="text/css">
+  </head><body>
+    <div class="section section-danger">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <a class="navbar-brand"><img height="60" alt="MedTime" src="/home/alunos/Downloads/MedTime/img.png"><h3 class="text-muted">MedTime</h3></a>
+          </div>
+        </div>
+      </div>
+    </div><div class="section"></div>
+    <div class="section text-justify">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-1 text-center">
+            <i class="fa fa-5x fa-medkit pull-left text-danger"></i>
+          </div>
+          <div class="col-md-1 text-center">
+            <i class="fa fa-5x fa-bell pull-left text-danger"></i>
+          </div>
+          <div class="col-md-1 text-center">
+            <i class="fa fa-5x fa-calendar pull-left text-danger"></i>
+          </div>
+          <div class="col-md-1">
+            <i class="fa fa-5x fa-question pull-left text-danger"></i>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section"></div><footer class="section section-danger">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-6 text-center">
+            <h1>MedTime</h1>
+            <p>O aplicativo que você não vai esquecer!</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+  
+
+</body></html>
